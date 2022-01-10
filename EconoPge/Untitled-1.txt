@@ -1,0 +1,10 @@
+https://github.com/LuisCruz17/econo-page
+https://LuisCruz17.github.io/econo-page/
+
+NOMBRE DEL REPOSITORIO : econo-page
+NOMBRE DE LA CARPETA : ECONOPGE
+
+https://github.com/LuisCruz17/econo-page/ECONOPGE
+https://LuisCruz17.github.io/econo-page/ECONOPGE        Esta es la RUTA ABSOLUTA
+
+Repositorio de mi primer proyecto de maquetación
